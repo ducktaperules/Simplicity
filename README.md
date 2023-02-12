@@ -4,8 +4,6 @@
     <br> 
 </p>
 
----
-
 <p align="center">
   <a href="" rel="noopener">
  <img src="Photos/Simplicity_1.0_Front_Low.png" alt="Project logo"></a>
@@ -16,6 +14,7 @@
 ## 📝 Jump To Useful Things:
 - [Concept](#concept)
 - [Features](#features)
+- [Get Started](#get_started)
 - [Inspiration](#inspiration)
 - [Ethos](#ethos)
 - [To Do List](#to_do_list)
@@ -26,7 +25,7 @@
 ## 🧐 Concept <a name = "concept"></a>
 Simplicity was designed as a compact desktop printer for the everyman. Its well suited to printing small parts quickly and accurately. Its easy to source, build and maintain, whilst looking good enough that you can keep it on show and accessible at all times.
 
-## 📋 Features <a name = "features"></a>
+## 📱 Features <a name = "features"></a>
  - CoreXY Design
  - 3D Printed Frame (prints on 220x220mm bed)
  - Looks Good
@@ -35,7 +34,15 @@ Simplicity was designed as a compact desktop printer for the everyman. Its well 
  - Integrated belt tension adjustment.
  - Bottom mounted motors for improved stability
  - Voron V0 Bed Support
- 
+
+## 👏 Get Started <a name = "get_started"></a>
+ - [BOM And CAD](/CAD/)
+ - Build Instructions (comming soon)
+  <br>
+  <br>
+  <br>
+ ---
+<br>
 
 ## 💡 Inspiration <a name = "inspiration"></a>
 ### Voron V0 (https://github.com/VoronDesign/Voron-0)
@@ -49,7 +56,7 @@ The Rook is a relatively new printer focused around making small format printers
 
 That said, the Rook design optimized for function over aesthetics. IMO it also has an unnecessary number of individual parts to print that require a decent tolerance to work correctly. 
 
-## 💡 Ethos <a name = "ethos"></a>
+## 🤘 Ethos <a name = "ethos"></a>
 
 ### Simple to Print
 Simplicity is designed to have as few separate parts as possible, all of which should be printable without supports. Its also designed so that tolerances in most places are not critical and everything should fit together first try.
@@ -60,13 +67,14 @@ Due to the small lightweight design, good results can easily be achieved with ch
 ### Easy to mod
 The stock configuration i have provided is the minimum needed to get up and running however i expect there will be many mods allowing better cooling, different print heads, enclosures, and electronics mounting for many different control boards.
 
-## 🚀 To Do List <a name = "to_do_list"></a>
+## 📋 To Do List <a name = "to_do_list"></a>
 There are a few things i need to do in the short term.
- - Upload STL files
+ - Upload STL files ✅
  - Upload STEP files
  - Add pictures
  - Add instruction manual
  - Write BOM
+ - design parts variant that use M3 heat set inserts rather than self tapping screws.
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 There are a lot of things i would like to improve in the future.
