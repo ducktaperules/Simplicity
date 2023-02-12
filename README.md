@@ -11,11 +11,6 @@
 
   <br>
 
----
-
-  <br>
-
-
 <!-- 
 ## 📝 Jump To Useful Things:
 - [Quick Start](#get_started)
@@ -36,10 +31,6 @@
 
   <br>
 
----
-
-  <br>
-
 ## 🧐 Info about Simplicity <a name = "info"></a>
 Simplicity was designed as a compact desktop printer for the everyman. Its well suited to printing small parts quickly and accurately. Its easy to source, build and maintain, whilst looking good enough that you can keep it on show and accessible at all times.
 
@@ -53,9 +44,6 @@ Simplicity was designed as a compact desktop printer for the everyman. Its well 
  - Bottom mounted motors for improved stability
  - Voron V0 Bed Support
 
-  <br>
-
- ---
 <br>
 
 ## 💡 Inspiration <a name = "inspiration"></a>
@@ -70,6 +58,8 @@ The Rook is a relatively new printer focused around making small format printers
 
 That said, the Rook design optimized for function over aesthetics. IMO it also has an unnecessary number of individual parts to print that require a decent tolerance to work correctly. 
 
+<br>
+
 ## 🤘 Ethos <a name = "ethos"></a>
 
 ### Simple to Print
@@ -81,6 +71,8 @@ Due to the small lightweight design, good results can easily be achieved with ch
 ### Easy to mod
 The stock configuration i have provided is the minimum needed to get up and running however i expect there will be many mods allowing better cooling, different print heads, enclosures, and electronics mounting for many different control boards.
 
+<br>
+
 ## 📋 To Do List <a name = "to_do_list"></a>
 There are a few things i need to do in the short term.
  - Upload STL files ✅
@@ -91,14 +83,20 @@ There are a few things i need to do in the short term.
  - Design parts variant that use M3 heat set inserts rather than self tapping screws.
  - Maybe Belted Z Mod
 
+<br>
+
 ## 🚀 Future Scope <a name = "future_scope"></a>
 There are a lot of things i would like to improve in the future.
  - Printhead with built in part cooling fans 
  - Electronics Cover for those who want to  hide their shame
  - Full enclosure with door and lid for better printing of ABS
 
+<br>
+
 ## ✍️ Authors <a name = "authors"></a>
 - [@ducktaperules](https://github.com/ducktaperules) - Idea & Initial work
+
+<br>
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
 - [@rolohaun](https://github.com/rolohaun) - Thanks for the inspiration and for hosting a great community on discord who provide constant motivation.
