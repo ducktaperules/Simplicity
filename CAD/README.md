@@ -5,7 +5,7 @@
 <img src="PartRenders\Simplicity.png"></a>
 </p>
 
-<h1 align="center">Parts List</h3>
+<h1 align="center">Parts List</h1>
 
 ## BOM
 
@@ -43,6 +43,7 @@ Hardware:
  - 8x M3 Washer (should be 0.5mm thick)
  - 8x M3x25 Cap Head (or dome head if your a sadist)
  - 4x M3x6 Cap Head (see above)
+ - 12x M3x8 CSK (for stepper motors)
 
 ---
 

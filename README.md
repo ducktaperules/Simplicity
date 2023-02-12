@@ -9,20 +9,38 @@
  <img src="Photos/Simplicity_1.0_Front_Low.png" alt="Project logo"></a>
 </p>
 
+  <br>
+
 ---
 
+  <br>
+
+
+<!-- 
 ## 📝 Jump To Useful Things:
-- [Concept](#concept)
+- [Quick Start](#get_started)
+- [Info about Simplicity](#info)
 - [Features](#features)
-- [Get Started](#get_started)
 - [Inspiration](#inspiration)
 - [Ethos](#ethos)
 - [To Do List](#to_do_list)
 - [Future Scope](#future_scope)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
+-->
 
-## 🧐 Concept <a name = "concept"></a>
+
+## 👏 Quick Start<a name = "get_started"></a>
+### - [BOM And CAD](/CAD/)
+### - [Build Guide](/Instructions/)
+
+  <br>
+
+---
+
+  <br>
+
+## 🧐 Info about Simplicity <a name = "info"></a>
 Simplicity was designed as a compact desktop printer for the everyman. Its well suited to printing small parts quickly and accurately. Its easy to source, build and maintain, whilst looking good enough that you can keep it on show and accessible at all times.
 
 ## 📱 Features <a name = "features"></a>
@@ -35,12 +53,8 @@ Simplicity was designed as a compact desktop printer for the everyman. Its well 
  - Bottom mounted motors for improved stability
  - Voron V0 Bed Support
 
-## 👏 Get Started <a name = "get_started"></a>
- - [BOM And CAD](/CAD/)
- - Build Instructions (comming soon)
   <br>
-  <br>
-  <br>
+
  ---
 <br>
 
@@ -71,10 +85,11 @@ The stock configuration i have provided is the minimum needed to get up and runn
 There are a few things i need to do in the short term.
  - Upload STL files ✅
  - Upload STEP files
- - Add pictures
- - Add instruction manual
- - Write BOM
- - design parts variant that use M3 heat set inserts rather than self tapping screws.
+ - Add pictures ✅
+ - Add instruction manual ✅
+ - Write BOM ✅(kinda)
+ - Design parts variant that use M3 heat set inserts rather than self tapping screws.
+ - Maybe Belted Z Mod
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 There are a lot of things i would like to improve in the future.
