@@ -2,7 +2,7 @@
 <p align="center">
   <a href="" rel="noopener">
  
-<img src="Simplicity.png"></a>
+<img src="PartRenders\Simplicity.png"></a>
 </p>
 
 <h1 align="center">Parts List</h3>
@@ -56,42 +56,42 @@ Total filament used was around 430g and total print time was around 24 hours on 
 
 ### Frame Base
 The base is the largest part. it should print top side down.
-<p><img src="SimplicityBase.png" width="400" height="300"></a></p>
+<p><img src="PartRenders\SimplicityBase.png" width="400" height="300"></a></p>
 
 ### Frame Mid and Frame Top
 These 2 parts bolt together to form the main top assembly.
-<p><img src="SimplicityTop.png" width="400" height="300"></a>
-<img src="SimplicityMid.png" width="400" height="300"></a></p>
+<p><img src="PartRenders\SimplicityTop.png" width="400" height="300"></a>
+<img src="PartRenders\SimplicityMid.png" width="400" height="300"></a></p>
 
 ### Tensioner (x2)
 You need 2 of these. They hold the adjustable belt pulleys to tension the belt. They should sit flat on the bed with the widest part of the slope at the bottom. 
-<p><img src="SimplicityTension.png" width="400" height="300"></a></p>
+<p><img src="PartRenders\SimplicityTension.png" width="400" height="300"></a></p>
 
 ### X Gantry
 Printed on its back with the rail surface on the top.
-<p><img src="SimplicityX.png" width="400" height="300"></a></p>
+<p><img src="PartRenders\SimplicityX.png" width="400" height="300"></a></p>
 
 ### Print Head
 Printed on its back.
-<p><img src="SimplicityPrintHead.png" width="400" height="300"></a></p>
+<p><img src="PartRenders\SimplicityPrintHead.png" width="400" height="300"></a></p>
 
 ### Bed
 Printed with the large flat side down, a small amount of support is usually needed for the overhand near the nut for the threaded rod
-<p><img src="SimplicityBed.png" width="400" height="300"></a></p>
+<p><img src="PartRenders\SimplicityBed.png" width="400" height="300"></a></p>
 
 ### Extruder mount
 Optional part that will alow for easy mounting of most extruders that use a standard stepper motor. I have used both the original Creality extruder as well as the bondtech Clone shown in my photos.
-<p><img src="SimplicityExtruderMount.png" width="400" height="300"></a></p>
+<p><img src="PartRenders\SimplicityExtruderMount.png" width="400" height="300"></a></p>
 
 ### Electronics mount
 Optional part that will alow for easy mounting of raspberry Pi and SKR Pico driver board. if your using something else this part can be modified to support different control boards.
-<p><img src="SimplicityElectronics.png" width="400" height="300"></a></p>
+<p><img src="PartRenders\SimplicityElectronics.png" width="400" height="300"></a></p>
 
 ### Cooling
 This is a quick bodge to add an RCS style part cooling fan. its not optimized but it will get you going. it takes a 120mm blower fan. It fits mine, I dont know if they are all the same or not.
-<p><img src="SimplicityRCS.png" width="400" height="300"></a>
-<img src="SimplicityRCS2.png" width="400" height="300"></a></p>
+<p><img src="PartRenders\SimplicityRCS.png" width="400" height="300"></a>
+<img src="PartRenders\SimplicityRCS2.png" width="400" height="300"></a></p>
 
 ### Draft Shield (Guard)
 CURRENTLY UNTESTED - This is a simple print that can be printed in vase mode and is designed to provide a semi inclosed bed, offering a little protection from drafts. Its not compatible with the cooling fan above
-<p><img src="SimplicityGuard.png" width="400" height="300"></a></p>
+<p><img src="PartRenders\SimplicityGuard.png" width="400" height="300"></a></p>
