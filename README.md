@@ -80,6 +80,7 @@ There are a few things i need to do in the short term.
  - Add pictures ✅
  - Add instruction manual ✅
  - Write BOM ✅(kinda)
+ - SORT OUT LICENCE
  - Design parts variant that use M3 heat set inserts rather than self tapping screws.
  - Maybe Belted Z Mod
 
