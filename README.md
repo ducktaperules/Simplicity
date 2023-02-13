@@ -37,12 +37,13 @@ Simplicity was designed as a compact desktop printer for the everyman. Its well 
 ## 📱 Features <a name = "features"></a>
  - CoreXY Design
  - 3D Printed Frame (prints on 220x220mm bed)
+ - 120x120x100mm print volume (easy to extend Z as needed)
+ - Voron V0 Bed Support
  - Looks Good
  - Few separate parts to print.
  - Less than 500g of filament to print all parts.
  - Integrated belt tension adjustment.
  - Bottom mounted motors for improved stability
- - Voron V0 Bed Support
 
 <br>
 

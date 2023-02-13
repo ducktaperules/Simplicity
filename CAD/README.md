@@ -11,7 +11,7 @@
 
 Big Parts:
  - Control Board - I recommend SKR Pico with raspberry pi and klipper, but you can use whatever printer board you have access to.
- - 3x NEMA 17 stepper motors less than 40mm in length (3 for axis and one for extruder).
+ - 3x NEMA 17 stepper motors less than 40mm in length (For XYZ axis).
  - Extruder and Stepper - Any you have available. The stock Creality will fit but i recommend a dual gear like the bondtech BMG clones available from ali-express or amazon.
  - Hot End - Again, creality ender/CR10 hot end is fine but i recommend a high flow nozzle. im using a cheep volcano block and nozzle from amazon.
  - Bed - 120x120mm beds compatible with Voron V0 or Rook should fit. Otherwise Im using a diy bed made from a 150x150mm scrap of aluminum with V0 compatible mounting. If not using a printed bed i have seen some Rook's with printed beds. 
