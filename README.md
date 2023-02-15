@@ -70,7 +70,8 @@ Simplicity is designed to have as few separate parts as possible, all of which s
 Due to the small lightweight design, good results can easily be achieved with cheap components or old spare parts. Any Junker 42mm stepper motors will give speeds and accelerations. Im also using the Creality hot end as they are available everywhere and many even have them spare from previous printers.
 
 ### Easy to mod
-The stock configuration i have provided is the minimum needed to get up and running however i expect there will be many mods allowing better cooling, different print heads, enclosures, and electronics mounting for many different control boards.
+The stock configuration i have provided is the minimum needed to get up and running however i expect there will be many mods allowing better cooling, different print heads, enclosures, and electronics mounting for many different control boards. 
+<br>The full .STEP file is now available for modding in the CAD folder.
 
 <br>
 

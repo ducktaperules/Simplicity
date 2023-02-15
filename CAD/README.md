@@ -38,7 +38,7 @@ Hardware:
  - 6x M5x30 CSK
  - 2x M5x25 CSK (+4 if using my electronics tray)
  - 2x M5x25 Cap Head (tension adjusters so cap or dome works too)
- - 8x M5 Heatset Inserts (+4 if using my electronics tray)
+ - 8x M5 Heatset Inserts (7mm diameter by <8mm deep ),(+4 if using my electronics tray)
  - 20x M5 Washer (should be 1mm thick)
  - 8x M3 Washer (should be 0.5mm thick)
  - 8x M3x25 Cap Head (or dome head if your a sadist)
